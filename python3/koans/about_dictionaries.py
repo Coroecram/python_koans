@@ -54,4 +54,3 @@ class AboutDictionaries(Koan):
         self.assertEqual(__, len(cards))
         self.assertEqual(__, cards['green elf'])
         self.assertEqual(__, cards['yellow dwarf'])
-
